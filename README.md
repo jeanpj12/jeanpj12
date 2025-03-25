@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, me chamo Jean Jr.!
 
 🚀 Desenvolvedor Back End apaixonado por tecnologia e soluções inovadoras. Trabalho com **Node.js, TypeScript, PostgreSQL, Docker, Nest, Fastify, entre outras tecnologias**!
 
